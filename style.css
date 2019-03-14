@@ -33,7 +33,7 @@ body {
 	font-weight: 700;
 	border: none;
 	background: transparent;
-	font-size: 7em;
+	font-size: 112px;
 	color: #ec5a62;
 }
 
@@ -150,8 +150,8 @@ img {
 		transition: font-size 0.5s cubic-bezier(0.7,0,0.3,1);
 	}
 	.block {
-		width: 100%;
-		padding: 0 0 32px;
+		width: 90%;
+
 	}
 	.block:nth-child(2) {
 		margin: 0;
